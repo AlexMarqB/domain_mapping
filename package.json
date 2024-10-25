@@ -16,6 +16,9 @@
     "vite-tsconfig-paths": "^5.0.1"
   },
   "dependencies": {
+    "@paralleldrive/cuid2": "^2.2.2",
+    "cuid": "^3.0.0",
+    "dayjs": "^1.11.13",
     "vitest": "^2.1.3"
   }
 }
